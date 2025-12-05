@@ -20,10 +20,24 @@
 11. [Création d'un type de contenu](./011-creation-nouveau-type-contenu.md)
 12. [Les vues](./012-les-vues.md)
 13. [Les menus](./013-les-menus.md)
+
+## Afficher les données
+
 14. [Inclure vues et blocs dans les régions](./014-inclure-les-vues-blocs-dans-la-mise-en-page.md)
+
+## Thème
+
+### Agir surle thème de base
+
 15. [Thèmes de base](./015-theme-de-base.md)
+
+### Thème enfant
+
 16. [Créer un thème enfant](./016-theme-enfant.md)
 17. [Exemple de thème enfant pré-généré](./017-theme-enfant-pre-genere.md)
+
+## Mettre en ligne
+
 18. [Migration d'un Drupal](./018-migration-drupal.md)
 
 ## Atelier - exercice - td proposé
