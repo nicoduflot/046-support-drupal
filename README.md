@@ -27,7 +27,7 @@
 
 ## Thème
 
-### Agir surle thème de base
+### Agir sur le thème de base
 
 15. [Thèmes de base](./015-theme-de-base.md)
 
