@@ -1,0 +1,26 @@
+@import url('./bootstrap-icons.css');
+@import url('./Starborn.css');
+
+.navbar-brand a{
+    font-family: 'Starborn';
+    text-shadow: 2px 2px red, -2px -2px blue;
+}
+
+[data-block="hero"] .views-view-responsive-grid__item{
+    border-radius: 1rem;
+    /*border: 1px solid var(--bs-gray);*/
+    box-shadow: 1px 1px 3px black;
+    padding: 0.5rem;
+}
+
+[data-block="hero"] .views-view-responsive-grid__item img{
+    border-radius: 1rem;
+}
+
+.img-fit img{
+    border-radius: 0.25rem;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    object-position: center center;
+}

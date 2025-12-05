@@ -1,0 +1,21 @@
+name: popculturestable
+type: theme
+description: Thème enfant de starterkit_theme
+core_version_requirement: ^11
+base theme: starterkit_theme
+logo: images/pop-culture-logo-01.svg
+libraries:
+  - popculturestable/general
+regions: 
+  header: 'Header'
+  primary_menu: 'Primary menu'
+  secondary_menu: 'Secondary menu'
+  highlighted: 'Highlighted'
+  hero: 'Hero'
+  help: 'Help'
+  sidebar_first: 'Left sidebar'
+  breadcrumb: 'Breadcrumb'
+  custom_region: 'Custom region'
+  content: 'Content'
+  sidebar_second: 'Right sidebar'
+  footer: 'Footer'

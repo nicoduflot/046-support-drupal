@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Starborn';
+    src: url('fonts/Starborn.eot');
+    src: url('fonts/Starborn.eot') format('embedded-opentype'),
+         url('fonts/Starborn.woff2') format('woff2'),
+         url('fonts/Starborn.woff') format('woff'),
+         url('fonts/Starborn.ttf') format('truetype'),
+         url('fonts/Starborn.svg#Starborn') format('svg');
+}

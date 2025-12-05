@@ -1,0 +1,11 @@
+general:
+  header: true
+  css:
+    theme: 
+      css/bootstrap.css: {media: screen}
+      css/bootstrap-icons.css: {}
+      css/style.css: {media: screen}
+      css/print.css: {media: print}
+  js:
+    js/bootstrap.bundle.js: {}
+    js/scripts.js : {}
