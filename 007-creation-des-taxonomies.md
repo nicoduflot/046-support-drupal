@@ -20,6 +20,7 @@ Pour ajouter une taxonomie (un vocabulaire)
 
 * Accueil > Administration > Structure > Taxonomie
 * Cliquer sur "ajouter un vocabulaire"
+* ![ajout de taxonomie](./support/012-ajouter-une-taxonomie.png)
 * Remplir à minima le champ "nom"
 * Puis après l'enregistrement (Accueil > Administration > Structure > Taxonomie) clique sur "lister les termes" de la taxonomie ajoutée
 

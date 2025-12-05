@@ -12,8 +12,8 @@
 * Cliquer sur "import"
 * Cliquer sur le lien ["Drupal translation server"]
 * (https://localize.drupal.org/)
-* Dans la navigation rapide, rechercher "French" puis le bouton "Go there" ![Navigation rapide]
-* (./support/001-fichier-de-trad-fr.png)
+* Dans la navigation rapide, rechercher "French" puis le bouton "Go there"
+* ![Navigation rapide](./support/001-fichier-de-trad-fr.png)
 * Sur la page suivante, télécharger le fichier correspondant à la version utilisée 
 * ![drupal 11](./support/002-fichier-de-trad-fr.png)
 * Charger le fichier en demandant de réécrire les traduciton existante ainsi que les traductions faîtes par l'utilisateur 

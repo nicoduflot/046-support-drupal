@@ -30,16 +30,20 @@
 
 1. Faire une installation de drupal (sans composer)
 2. Activer les extensions présintallées :
+
     A. Media
     B. Media library
     C. Configuration Translation
     D. Interface Translation
     E. Language
+
 3. Installer activer les extensions suivantes : 
+
     A. admin toolbar
     B. token
     C. pathauto
     D. chaostools
+
 4. Mettre la langue FR
 5. Installer le thème [bootstrap5](https://www.drupal.org/project/bootstrap5/releases/4.0.6)
 6. Créer un sous-thème bs5
