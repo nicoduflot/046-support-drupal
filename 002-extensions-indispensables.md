@@ -40,3 +40,9 @@ Ensuite aller dans extends et activer les extensions suivantes
 ### Ajouter le format svg
 
 * [svg image](https://www.drupal.org/project/svg_image)
+
+Accueil > Administration > Structure > Types de média > Modifier Image
+
+Modifier le champ image
+
+Ajouter svg dans ```Extensions de fichier autorisées```
