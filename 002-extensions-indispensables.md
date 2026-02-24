@@ -34,3 +34,9 @@ Ensuite aller dans extends et activer les extensions suivantes
         * Block supplémentaires (données et mise en page)
     * Chaos Tools Views
         * Outils supplémentaires pour aider à créer des vues customisées
+
+## Extensions optionnelles
+
+### Ajouter le format svg
+
+* [svg image](https://www.drupal.org/project/svg_image)
