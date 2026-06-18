@@ -56,3 +56,18 @@ Il suffit de créer un répertoire dans ```<répertoire du site>\sites\default\f
   text-shadow: 3px 3px black, -1px -1px black;
 }
 ```
+
+#### Prévisualisation
+
+La prévisualisation est très pratique dans le cas de CSS Editor, en revanche la fenêtre de prévisualisation n'est pas très haute.
+
+Il est possible d'activer CSS Editor pour le thème de l'administration et d'ajouter le CSS suivant : 
+
+```css
+
+#css-editor-preview {
+    width: 100%;
+    height: 400px;
+}
+
+```
