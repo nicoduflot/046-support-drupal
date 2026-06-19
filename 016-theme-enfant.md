@@ -33,7 +33,7 @@ C'est le fichier qui permet de définir, entre autre :
 * le thème parent sur lequel notre thème s'appuie
 * Le logo du thème
 * les librairies (les fonctionnalité externe comme un datepicker js, jquery, chartjs, etc)
-* Les régions du thème (les partie principales du thème comme header, hero, content, sidebar, etc.)
+* Les régions du thème (les parties principales du thème comme header, hero, content, sidebar, etc.)
 
 ```myTheme.info.yml```
 
@@ -62,11 +62,11 @@ regions:
 
 #### Fichier .libraries.yml
 
-les lirairies correpondent :
-* Les fichiers CSS du thème
-* les fichiers js du thème
-* les polices du thème
-* des widget js / css comme chartJs
+les lirairies correspondent :
+* Aux fichiers CSS du thème
+* Aux fichiers js du thème
+* Aux polices du thème
+* Aux widgets js / css comme chartJs
 * etc
 
 ```myTheme.libraries.yml```
