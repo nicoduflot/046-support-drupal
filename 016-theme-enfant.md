@@ -119,7 +119,7 @@ html.html.twig (<html>)
 
 Les thèmes dans drupal sont gérés par le moteur de thème twig
 
-Un thème enfant s'appuie sur tous les fichiers twig du thème parent, quand il est nécessaire de modifier l'apparence d'un des éléments, il faut reproduire dans le thème enfant l'arborescence des fichiers twig du thème parent et reprende soit le fichier exact(dans le cas d'une modification générique) soit créer un fichier twig avec le nom suggéré par le débug qui s'affiche en commentaire html dans le code de la page.
+Un thème enfant s'appuie sur tous les fichiers twig du thème parent, quand il est nécessaire de modifier l'apparence d'un des éléments, il faut reproduire dans le thème enfant l'arborescence des fichiers twig du thème parent et reprendre soit le fichier exact(dans le cas d'une modification générique) soit créer un fichier twig avec le nom suggéré par le débug qui s'affiche en commentaire html dans le code de la page.
 
 #### Les fichiers CSS
 
@@ -140,9 +140,9 @@ Si vous faîte des modifications dans les fichiers CSS, il ne faut pas oublier d
 * page--front.html.twig
 * page--node.html.twig
 
-Comme bootstrap a été intégré dans l'entête, on va s'en servir pour créer le fichier comme si on l'utilisait sur une page normale, mais cela nécessite de parfois découper les parti html dans plusieurs fichiers twig, et dans certains cas, comme pour adapter la navabr de bootstrap, bien comprendre et réinterprêter les macros de twig qui utilisent les données fournies par drupal afin de calibrer les boucles de création d'élément de menu et de sous-menu aux classes et besoin de bootstrap pour que la navbar se comporte correctement.
+Comme bootstrap a été intégré dans l'entête, on va s'en servir pour créer le fichier comme si on l'utilisait sur une page normale, mais cela nécessite de parfois découper les parties html dans plusieurs fichiers twig, et dans certains cas, comme pour adapter la navbar de bootstrap, bien comprendre et réinterprêter les macros de twig qui utilisent les données fournies par drupal afin de calibrer les boucles de création d'élément de menu et de sous-menu aux classes et besoin de bootstrap pour que la navbar se comporte correctement.
 
-QUand on surcharge un élément twig par un fichier de notre thème, il ne faut pas oublier de dire à twig de recontruire le le registre du thème, sinon les fichier ne seront pas surchargé tout de suite, ou seulement après un flush de tous les caches (ce qui prends du temps et est un poil agaçant)
+Quand on surcharge un élément twig par un fichier de notre thème, il ne faut pas oublier de dire à twig de recontruire le registre du thème, sinon les fichiers ne seront pas surchargés tout de suite, ou seulement après un flush de tous les caches (ce qui prends du temps et est un poil agaçant)
 
 #### intégration de la navbar de bootstrap sur starter_kit
 
