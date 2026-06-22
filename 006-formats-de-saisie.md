@@ -1,4 +1,4 @@
-# Formats de saisie
+# Formats de texte
 
 Il faut maintenant configurer les éditeurs WYSIWYG des différents type de contenu, notamment pour les media des contenus.
 
