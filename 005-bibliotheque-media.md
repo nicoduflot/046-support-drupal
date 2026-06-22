@@ -9,3 +9,15 @@ Il existe dans les extension du coeur de Drupal, une extension pour gérer les m
 * aller ensuite Accueil > Administration > Configuration  Média > Paramètres de la médiathèque
 * Cocher "Activer l'interface utilisateur (UI) avancée"
 * Enregistrer
+
+## Extensions optionnelles
+
+### Ajouter le format svg
+
+* [svg image](https://www.drupal.org/project/svg_image)
+
+Accueil > Administration > Structure > Types de média > Modifier Image
+
+Modifier le champ image
+
+Ajouter svg dans ```Extensions de fichier autorisées```
