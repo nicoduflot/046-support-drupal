@@ -16,7 +16,7 @@ Il existe dans les extension du coeur de Drupal, une extension pour gérer les m
 
 * [svg image](https://www.drupal.org/project/svg_image)
 
-Accueil > Administration > Structure > Types de média > Modifier Image
+Accueil > Administration > Structure > Types de média > Modifier Image (c'est dans l'onglet "Gérer les champs")
 
 Modifier le champ image
 
