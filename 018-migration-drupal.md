@@ -5,7 +5,7 @@ Il existe des outils extension qui permettraient la migration d'un site Drupal e
 Il est possible cependant de le faire "manuellement" en suivant ses étapes :
 
 * Sauvegarder la base de donnée du site a migrer
-    * ATTENTION : dans les données enregistrées, l'adresse utilisée par le site a migrer y apparait environ 300 fois, il faut ouvrir le fichier de saugarde dans un éditeur et remplacer l'adresse actuelle par l'adresse de migration :
+    * ATTENTION : dans les données enregistrées, l'adresse utilisée par le site a migrer y apparait environ 300 fois, il faut ouvrir le fichier de sauvegarde dans un éditeur et remplacer l'adresse actuelle par l'adresse de migration :
         * ancienne adresse : http://www.monsite.local => htt://www.monsite.com
 * Sur la base de données du nouvel hébergeur, créer une base de données et y importer la sauvegarde modifiée
 * Une fois que la BDD est correctement importée il faut transferrer TOUS les fichiers du site vers l'autre hébergeur

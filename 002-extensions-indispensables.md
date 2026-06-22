@@ -1,9 +1,9 @@
 # Extensions Indispensables
 
-* Admin toolbar
-* token
-* pathauto
-* chaostools (ctools)
+* [https://www.drupal.org/project/admin_toolbar](Admin toolbar)
+* [https://www.drupal.org/project/token](token) 
+* [https://www.drupal.org/project/pathauto](pathauto)
+* [https://www.drupal.org/project/ctools](chaostools) (ctools)
 
 Télécharger les zip et les dézipper dans le répertoire ```modules``` à la racine du site
 
