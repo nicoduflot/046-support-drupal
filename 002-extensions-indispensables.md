@@ -3,7 +3,7 @@
 * [Admin toolbar](https://www.drupal.org/project/admin_toolbar)
 * [token](https://www.drupal.org/project/token) 
 * [pathauto](https://www.drupal.org/project/pathauto)
-* [ctools](https://www.drupal.org/project/ctoolschaostools) (ctools)
+* [ctools](https://www.drupal.org/project/ctools) (chaostools)
 
 Télécharger les zip et les dézipper dans le répertoire ```modules``` à la racine du site
 
